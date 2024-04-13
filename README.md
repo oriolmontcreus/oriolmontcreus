@@ -48,6 +48,6 @@
 ---
 These awesome tools make this profile possible:
 
-- <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a>
-- <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Readme Typing SVG</a>
-- <a href="https://github.com/tandpfun/skill-icons" target="_blank">Skill Icons</a>
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
+- [Skill Icons](https://github.com/tandpfun/skill-icons)
