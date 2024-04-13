@@ -3,12 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=619EF7&random=false&width=450&height=30&lines=Full-stack+Developer;Passionate+about+Frontend;Always+learning+and+improving)](https://git.io/typing-svg)
 
 <span style="color: #1982c4">Hello there</span>! This is my GitHub space for personal and academic projects.
+
 ## 📫 About me
-
 <span>
-  <a href="mailto:-"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" style="vertical-align: middle;"/> no email yet</a> |
-<a href="https://www.linkedin.com/in/oriol-mont-creus/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" style="vertical-align: middle;"/> @oriol-mont-creus</a>
-
+  <a href="mailto:-"><img src="https://img.icons8.com/material-outlined/24/619ef7/email.png" style="vertical-align: middle;"/> no email yet</a> |
+  <a href="https://www.linkedin.com/in/oriol-mont-creus/"><img src="https://img.icons8.com/material-outlined/24/619ef7/linkedin.png" style="vertical-align: middle;"/> @oriol-mont-creus</a>
 </span>
 
 - 📍 Spain
