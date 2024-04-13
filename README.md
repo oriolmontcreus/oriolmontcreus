@@ -5,10 +5,25 @@
 <span style="color: #1982c4">Hello there</span>! This is my GitHub space for personal and academic projects.
 
 ## 📫 About me
-<span>
-  <a href="mailto:-"><img src="https://img.icons8.com/material-outlined/24/619ef7/email.png" style="vertical-align: middle;"/> no email yet</a> |
-  <a href="https://www.linkedin.com/in/oriol-mont-creus/"><img src="https://img.icons8.com/material-outlined/24/619ef7/linkedin.png" style="vertical-align: middle;"/> @oriol-mont-creus</a>
-</span>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:-">
+        <img src="https://img.icons8.com/material-outlined/24/619ef7/email.png" alt="Email"/>
+        <br/>
+        No email yet
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/oriol-mont-creus/">
+        <img src="https://img.icons8.com/material-outlined/24/619ef7/linkedin.png" alt="LinkedIn"/>
+        <br/>
+        @oriol-mont-creus
+      </a>
+    </td>
+  </tr>
+</table>
 
 - 📍 Spain
 - 🎂 06/2004
