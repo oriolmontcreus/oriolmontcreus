@@ -9,14 +9,14 @@
 <table>
   <tr>
     <td align="center">
-      <a href="mailto:-">
+      <a href="mailto:-" target="_blank">
         <img src="https://img.icons8.com/material-outlined/24/619ef7/email.png" alt="Email"/>
         <br/>
         No email yet
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/oriol-mont-creus/">
+      <a href="https://www.linkedin.com/in/oriol-mont-creus/" target="_blank">
         <img src="https://img.icons8.com/material-outlined/24/619ef7/linkedin.png" alt="LinkedIn"/>
         <br/>
         @oriol-mont-creus
@@ -48,6 +48,6 @@
 ---
 These awesome tools make this profile possible:
 
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
-- [Skill Icons](https://github.com/tandpfun/skill-icons)
+- <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a>
+- <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Readme Typing SVG</a>
+- <a href="https://github.com/tandpfun/skill-icons" target="_blank">Skill Icons</a>
