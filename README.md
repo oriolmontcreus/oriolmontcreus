@@ -9,10 +9,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="mailto:omont.dam@institutcampalans.net" target="_blank">
+      <a href="mailto:omcdev9@gmail.com" target="_blank">
         <img src="https://img.icons8.com/material-outlined/24/619ef7/email.png" alt="Email"/>
         <br/>
-        omont.dam@institutcampalans.net
+        omcdev9@gmail.com
       </a>
     </td>
     <td align="center">
