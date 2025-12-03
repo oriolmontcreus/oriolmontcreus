@@ -35,7 +35,8 @@
 
 ## ⚡ Technologies 
 
-[![Technologies](https://skillicons.dev/icons?i=html,css,angular,bootstrap,tailwind,jquery,js,ts,cs,py,php,laravel,nodejs,express,docker,git,npm,mysql,mongodb,postgres&perline=10)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=html,css,angular,bootstrap,tailwind,jquery,js,ts,cs,py,php,laravel,nodejs,express,docker,git,npm,mysql,mongodb,postgres,react,svelte,hono&perline=10)](https://skillicons.dev)
+
 
 ## 🛠 Tools / Misc I'm familiar with
 
